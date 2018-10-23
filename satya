@@ -1,0 +1,7 @@
+file is nothing but to store the data par,manently.
+by usingg file to store the data.
+if we want open the file must use open()
+finally close the file otherwie the file not working.
+if you read only one line from the file use readline()
+if you read line by line from the file use readlines()
+else you want to all lines fromm the file use read()

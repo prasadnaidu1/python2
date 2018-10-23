@@ -1,0 +1,9 @@
+in python file handling is nothing but a creating file
+deleting the files and close the files
+in python we can open the file by using open method
+this open method conatins two arguments
+first one is file path or file name
+second one is mode
+mode is either read, write and append
+coming to read mode by using this read mode we can accsing the information from file
+and also read the all the informaton

@@ -1,0 +1,1 @@
+a=int(input('enter a 1st number:')+(input('enter a 2nd number:')))

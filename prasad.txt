@@ -1,0 +1,6 @@
+django is free andopen sourse
+it is frame work to develop web applications
+ using python
+web application is installed in server machine all clients are accesing the that application services
+website is nothing but colllection of web pages
+web page is  document which is ncluding images and videos and audios and some raw data
